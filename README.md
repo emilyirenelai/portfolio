@@ -1,3 +1,3 @@
 # portfolio
 
-portfolio skeleton
+portfolio
